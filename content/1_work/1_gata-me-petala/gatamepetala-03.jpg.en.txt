@@ -1,0 +1,5 @@
+Caption: Seminars info page
+
+----
+
+Template: image

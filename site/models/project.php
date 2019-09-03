@@ -15,4 +15,17 @@ class ProjectPage extends Page {
 
     }
 
+    public function imageArray() {
+
+        $images = [];
+
+        foreach ($this->gallery()->toFiles() as $pic) {
+
+            $images[] = $pic->imagedata();
+
+        }
+
+        return $images;
+
+    }
 }

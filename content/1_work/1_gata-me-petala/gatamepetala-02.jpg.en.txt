@@ -1,0 +1,5 @@
+Caption: Jewelry collection page
+
+----
+
+Template: image

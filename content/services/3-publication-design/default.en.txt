@@ -2,4 +2,16 @@ Title: Book Design and Editing
 
 ----
 
-Text: More than 15 years of experience in designing books and editing publications about design and architecture. Currently running my own publishing company, (link: http://eccentric-books.com/ text: Eccentric Books).
+Text: More than 15 years of experience in designing books and editing publications about design and architecture. Currently running my own publishing company, (link: http://eccentric-books.com/ text: Eccentric Books target: _blank).
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

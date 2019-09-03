@@ -6,7 +6,7 @@ Text:
 
 ----
 
-Description: Portfolio of Dimitris Kottas, gr45aphic Designer and Web Developer
+Description: Portfolio of Dimitris Kottas, graphic Designer and Web Developer
 
 ----
 
